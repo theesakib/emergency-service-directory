@@ -8,7 +8,7 @@ A responsive and interactive web application providing quick access to essential
 
 The **Emergency Service Directory** serves as a centralized hub for critical helpline numbers—including National Emergency (999), Police, Fire Service, Ambulance, Women & Child Helpline, and Anti-Corruption Hotline.
 
-![Project Screenshot](assets/logo.png) *(Optional: Replace with actual screenshot path)*
+![Project Screenshot](assets/logo.png)
 
 ---
 
